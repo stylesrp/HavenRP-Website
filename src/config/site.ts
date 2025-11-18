@@ -3,11 +3,11 @@
 
 export const siteConfig = {
   // FiveM Server
-  cfxCode: "kbv7mv", // Your CFX.re server code
-  fivemConnect: "cfx.re/join/kbv7mv",
+  cfxCode: "pl6dgy", // Your CFX.re server code
+  fivemConnect: "cfx.re/join/pl6dgy",
   
   // Discord
-  discordInvite: "https://discord.gg/ghfpKz5pHw",
+  discordInvite: "https://discord.gg/stylesrp",
   discordGuildId: "1046276046137331773", // For widget API
   
   // AppyBot Application
@@ -15,7 +15,7 @@ export const siteConfig = {
   appyInstruction: "Click one of the apps to get started",
   
   // Server Info
-  serverName: "HavenRP",
+  serverName: "StylesRP",
   serverTagline: "Serious Stories. Futuristic Vibes.",
   maxPlayers: 256,
   
